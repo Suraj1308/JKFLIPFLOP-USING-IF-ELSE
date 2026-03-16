@@ -52,7 +52,7 @@ end
 assign gbar = ~qi;
 endmodule
 ~~~
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:MANIKANDAN M  RegisterNumber:212224040183
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:SURAJ SHARMA RegisterNumber:212224050052
 */
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1121" height="686" alt="image" src="https://github.com/user-attachments/assets/8a0dd14a-c8f4-4386-a089-0cdbf6541e9a" />
